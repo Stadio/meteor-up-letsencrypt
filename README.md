@@ -4,6 +4,8 @@
 
 > For Meteor 1.4 support use *npm install -g mupx-letsencrypt@meteor14*
 
+> This version provides both HTTP and HTTPS service, instead of redirecting HTTP > HTTPS. 
+
 ### Let's Encrypt support
 
 This is [Meteor-Up mupx](https://github.com/arunoda/meteor-up/tree/mupx) fork, with [Let's encrypt](https://letsencrypt.org) support out of the box. It is built on top of [Docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion).
